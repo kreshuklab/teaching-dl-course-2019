@@ -1,6 +1,7 @@
 # EMBL Deep Learning course 2019 exercises and materials 
 
-Schedule:
+## Schedule:
+
 Webinar 1 (02.12). Theory: intro to machine learning. Practical / home work: image manipulation and visualization in Python.
 
 Webinar 2 (16.12). Theory: intro to CNNs. Practical / home work: your first network on MNIST.
