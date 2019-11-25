@@ -8,4 +8,4 @@ Webinar 2 (16.12). Theory: intro to CNNs. Practical / home work: your first netw
 
 Webinar 3 (13.01). Theory: more about CNNs, fully convolutional networks for image-to-image transforms (segmentation, denoising). Practical / home work: U-net.
 
-
+You can find the Google Spreadsheet with Webinar registration and Questions&Answers [here](https://docs.google.com/spreadsheets/d/1VfinPM9TncBvNcxlcEf4-cox7QjJsj_8dqhY2n2ehPI/edit#gid=0). 
