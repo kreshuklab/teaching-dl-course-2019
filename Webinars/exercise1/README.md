@@ -18,3 +18,4 @@
  * [CV2 examples](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html#image-processing-in-opencv)
  * [SciPy examples](https://docs.scipy.org/doc/scipy/reference/tutorial/ndimage.html)
  * [Scikit examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
+ * [Data Augmentation Libraries](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
