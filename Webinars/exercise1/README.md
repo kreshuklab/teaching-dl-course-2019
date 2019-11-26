@@ -4,8 +4,8 @@
 
  * [Video 1](https://www.youtube.com/watch?v=-TDNDv2C6ow&feature=em-share_video_user)
  * [Video 2](https://www.youtube.com/watch?v=-RmipXviG8E&feature=em-share_video_user)
- * [Video 3](https://www.youtube.com/watch?v=-RmipXviG8E&feature=em-share_video_user)
- * [Video 4](https://www.youtube.com/watch?v=-RmipXviG8E&feature=em-share_video_user)
+ * [Video 3](https://www.youtube.com/watch?v=_dNc7odIRiM&feature=em-share_video_user)
+ * [Video 4](https://www.youtube.com/watch?v=-hHtfd9JrAg&feature=em-share_video_user)
 
 ## Exercises:
  * Notebook 1 - image_manipulation. In this notebook we will work with the data from Kaggle Data Science Bowl competition. We will load the data, display the images and apply various transformations available in cv2 library. 
