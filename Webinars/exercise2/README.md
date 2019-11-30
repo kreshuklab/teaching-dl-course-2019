@@ -2,7 +2,13 @@
 
 ## Lecture videos:
 
-__LINKS HERE__
+## Lecture videos:
+
+ * [Video 1](https://youtu.be/VFUckhnT8oM)
+ * [Video 2](https://youtu.be/QpP7X8t0QVk)
+ * [Video 3](https://youtu.be/tbMxbwO80qk)
+ * [Video 4](https://youtu.be/K2fY8zUOO-U)
+ 
 
 ## Exercises:
 
