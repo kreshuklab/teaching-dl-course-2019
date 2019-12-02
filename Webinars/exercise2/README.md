@@ -20,9 +20,11 @@ To complete the exercise you would have to do the following:
 
 * example_mnist_pytorch - go through the example of training various networks on MNIST dataset in Pytorch
 * Mnist_DL_Example_Keras - the same in Keras
-* exercise_cifar_pytorch.ipynb - complete the exercise for CIFAR10 dataset in Pytorch
+* exercise_cifar_pytorch - complete the exercise for CIFAR10 dataset in Pytorch
 * notebook_name - the same for Keras
 
 ## Additional materials:
-
-__MATERIALS HERE__
+1. [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+3. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) - a Stanford course
+4. [PyTorch Tutorials](https://pytorch.org/tutorials/) - Getting Started Tutorials for Image and Text processing
