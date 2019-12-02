@@ -18,8 +18,10 @@ Please note that there are two versions of the same exercise implemented in two 
 
 To complete the exercise you would have to do the following:
 
-* Notebook name - description
-* Notebook name - description
+* example_mnist_pytorch - go through the example of training various networks on MNIST dataset in Pytorch
+* Mnist_DL_Example_Keras - the same in Keras
+* exercise_cifar_pytorch.ipynb - complete the exercise for CIFAR10 dataset in Pytorch
+* notebook_name - the same for Keras
 
 ## Additional materials:
 
