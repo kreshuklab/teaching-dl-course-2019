@@ -19,3 +19,12 @@
  * [SciPy examples](https://docs.scipy.org/doc/scipy/reference/tutorial/ndimage.html)
  * [Scikit examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
  * [Data Augmentation Libraries](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
+
+## Python courses:
+
+Please note that you will __NEVER__ learn any programming language by reading or watching videos. You need to __CODE__, the more - the better. 
+
+ * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-2) - basic
+ * [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai) - basic
+ * [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - different levels 
+ * [Python for science](https://scipy-lectures.org/intro/index.html) - lecture notes, useful to walk through
