@@ -21,7 +21,7 @@ To complete the exercise you would have to do the following:
 * example_mnist_pytorch - go through the example of training various networks on MNIST dataset in Pytorch
 * Mnist_DL_Example_Keras - the same in Keras
 * exercise_cifar_pytorch - complete the exercise for CIFAR10 dataset in Pytorch
-* notebook_name - the same for Keras
+* exercise_cifar_Keras - the same for Keras
 
 ## Additional materials:
 1. [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
