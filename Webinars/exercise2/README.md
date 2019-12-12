@@ -2,8 +2,6 @@
 
 ## Lecture videos:
 
-## Lecture videos:
-
  * [Video 1](https://youtu.be/VFUckhnT8oM)
  * [Video 2](https://youtu.be/QpP7X8t0QVk)
  * [Video 3](https://youtu.be/tbMxbwO80qk)
