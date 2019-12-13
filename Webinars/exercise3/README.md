@@ -9,7 +9,7 @@
 ## Exercises:
 * unet_pytorch - follow the notebook and solve all the tasks to run a unet on Kaggle nuclei dataset
 * unet_keras - the same for keras
-  
+* care_basic_tutorial - a complete workflow for 2D denoising and upsampling as a single notebook 
 
 ## Additional materials:
 
