@@ -1,4 +1,4 @@
-# Exercise 2: U-net
+# Exercise 3: U-net
 
 ## Lecture videos:
 
